@@ -5,8 +5,6 @@ import './App.css'
 import Form from './components/Form.jsx'
 import UsersTable from './components/UsersTable.jsx'
 
-
-
 function App() {
   const [count, setCount] = useState(0)
 
