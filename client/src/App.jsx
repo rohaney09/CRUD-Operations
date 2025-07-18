@@ -7,7 +7,6 @@ import UsersTable from './components/UsersTable.jsx'
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
         <div className="p-6">
