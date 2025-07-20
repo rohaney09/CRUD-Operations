@@ -12,7 +12,6 @@ function App() {
         <div className="p-6">
       <h1 className="text-2xl font-bold mb-4">User Form</h1>
       <Form />
-
       <hr className="my-6" />
 
       <h1 className="text-2xl font-bold mb-4">User List</h1>
